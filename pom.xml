@@ -5,9 +5,39 @@
 
   <groupId>me.thingle.archetypes</groupId>
   <artifactId>java8-jersey2-guice4-webapp</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.0-SNAPSHOT</version>
+
+  <url>https://github.com/thingleme/java8-jersey2-guice4-webapp</url>
 
   <description>A java 8, servlet 3.1 webapp with jersey 2 and guice 4</description>
+
+  <licenses>
+    <license>
+      <name>MIT License</name>
+      <url>https://opensource.org/licenses/MIT</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+
+  <scm>
+    <url>https://github.com/thingleme/java8-jersey2-guice4-webapp</url>
+    <connection>scm:git:git://github.com/thingleme/java8-jersey2-guice4-webapp.git</connection>
+    <developerConnection>scm:git:git@github.com:thingleme/java8-jersey2-guice4-webapp.git</developerConnection>
+  </scm>
+
+  <issueManagement>
+    <url>https://github.com/thingleme/java8-jersey2-guice4-webapp/issues</url>
+    <system>GitHub Issues</system>
+  </issueManagement>
+
+  <developers>
+    <developer>
+      <email>federico@fissore.org</email>
+      <name>Federico Fissore</name>
+      <url>https://github.com/ffissore</url>
+      <id>ffissore</id>
+    </developer>
+  </developers>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
